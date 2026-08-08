@@ -1,0 +1,6 @@
+{
+  "name": "Cards do Lucas - Flashcards SEDES/DF Anki",
+  "description": "Página de vendas oficial dos Flashcards SEDES/DF para Anki por Lucas - Sistema de repetição espaçada e recuperação ativa para concurso SEDES/DF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

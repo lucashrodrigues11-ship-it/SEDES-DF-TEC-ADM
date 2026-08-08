@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Oswald', sans-serif;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+  --color-blue-electric: #3572EF;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #060B13;
+  color: #F1F5F9;
+}
+
+h1, h2, h3, .font-display {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.02em;
+}
